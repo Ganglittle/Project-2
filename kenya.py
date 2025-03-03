@@ -1,0 +1,1 @@
+print ('Hapa kuna moto')
